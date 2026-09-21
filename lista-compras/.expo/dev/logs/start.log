@@ -1,0 +1,38 @@
+{"_e":"root:init","_t":1790010171154,"format":"v0-jsonl","version":"57.0.26"}
+{"_e":"env:mode","_t":1790010171160,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790010171169,"mode":"development","files":[],"env":{}}
+{"_e":"root:init","_t":1790010460575,"format":"v0-jsonl","version":"57.0.26"}
+{"_e":"env:mode","_t":1790010460577,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1790010460585,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1790010461660,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1790010463951,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"expo:dev-tools-plugin:load","_t":1790010465311,"plugins":[]}
+{"_e":"metro:instantiate","_t":1790010471400,"atlas":false,"workers":13,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1790010473354,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1790010473355,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790010473360,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1790010475444,"id":"1","progress":0.010000000000000002,"total":1,"current":1}
+{"_e":"metro:bundling:progress","_t":1790010475557,"id":"1","progress":0.09,"total":9,"current":3}
+{"_e":"metro:bundling:progress","_t":1790010476893,"id":"1","progress":0.16000000000000003,"total":9,"current":4}
+{"_e":"metro:bundling:progress","_t":1790010476993,"id":"1","progress":0.16000000000000003,"total":48,"current":12}
+{"_e":"metro:bundling:progress","_t":1790010477097,"id":"1","progress":0.31640625,"total":64,"current":36}
+{"_e":"metro:bundling:progress","_t":1790010477197,"id":"1","progress":0.31640625,"total":89,"current":48}
+{"_e":"metro:bundling:progress","_t":1790010477297,"id":"1","progress":0.34602076124567477,"total":102,"current":60}
+{"_e":"metro:bundling:progress","_t":1790010477405,"id":"1","progress":0.48758917954815695,"total":116,"current":81}
+{"_e":"metro:bundling:progress","_t":1790010477507,"id":"1","progress":0.5132546224103364,"total":134,"current":96}
+{"_e":"metro:bundling:progress","_t":1790010477608,"id":"1","progress":0.565019593711995,"total":149,"current":112}
+{"_e":"metro:bundling:progress","_t":1790010477711,"id":"1","progress":0.6684862149440292,"total":159,"current":130}
+{"_e":"metro:bundling:progress","_t":1790010477811,"id":"1","progress":0.6976045971074379,"total":176,"current":147}
+{"_e":"metro:bundling:progress","_t":1790010477911,"id":"1","progress":0.7397782490805122,"total":193,"current":166}
+{"_e":"metro:bundling:progress","_t":1790010478011,"id":"1","progress":0.8063306955435235,"total":196,"current":176}
+{"_e":"metro:bundling:progress","_t":1790010478111,"id":"1","progress":0.8063306955435235,"total":212,"current":188}
+{"_e":"metro:bundling:progress","_t":1790010478219,"id":"1","progress":0.9184027777777779,"total":216,"current":207}
+{"_e":"metro:bundling:progress","_t":1790010478328,"id":"1","progress":0.9365244536940688,"total":217,"current":210}
+{"_e":"metro:bundling:progress","_t":1790010479786,"id":"1","progress":0.9454649705876107,"total":217,"current":211}
+{"_e":"metro:bundling:progress","_t":1790010479889,"id":"1","progress":0.990970700845601,"total":221,"current":220}
+{"_e":"metro:bundling:progress","_t":1790010481678,"id":"1","progress":0.999,"total":221,"current":221}
+{"_e":"metro:bundling:progress","_t":1790010481796,"id":"1","progress":0.999,"total":225,"current":225}
+{"_e":"metro:bundling:done","_t":1790010482211,"id":"1","total":225,"ms":8856.3684}
+{"_e":"metro:client_log","_t":1790010482318,"level":"info","data":["%cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools","font-weight:bold"]}
+{"_e":"metro:client_log","_t":1790010482322,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1790010482322,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
